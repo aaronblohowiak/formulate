@@ -1,0 +1,15 @@
+{
+  "author": "Aaron Blohowiak <aaron.blohowiak@gmail.com> (http://aaronblohowiak.com)",
+  "name": "formulate",
+  "description": "a thin wrapper for formidable, making it more convenient.",
+  "version": "0.1.1",
+  "homepage": "https://github.com/aaronblohowiak/formulate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aaronblohowiak/formulate.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "formidable": "~1.0.6"
+  }
+}
